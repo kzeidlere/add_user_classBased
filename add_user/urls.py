@@ -25,3 +25,4 @@ urlpatterns = [
     path('edit_user/<int:pk>', user.views.EditUserView.as_view(), name='user-id'),
     path('delete_user/<int:pk>', user.views.UserDeleteView.as_view()),
 ]
+

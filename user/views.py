@@ -1,4 +1,4 @@
-from django.shortcuts import render, HttpResponse
+from django.shortcuts import render
 from django.views.generic import ListView, View, FormView, DetailView, DeleteView
 
 from user.models import User
@@ -57,4 +57,3 @@ class UserDeleteView(DeleteView):
     template_name = 'delete_user.html'
     success_url = '/'
 
-#comment
