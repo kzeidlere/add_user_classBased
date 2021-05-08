@@ -2,21 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="636c8092-1151-4b2e-ab91-2aa033a17b3f" name="Default Changelist" comment="Add user">
-      <change beforePath="$PROJECT_DIR$/add_user" beforeDir="false" afterPath="$PROJECT_DIR$/add_user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/add_user/add_user/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/add_user/add_user/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/add_user/add_user/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/add_user/add_user/asgi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/add_user/add_user/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/add_user/add_user/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/add_user/add_user/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/add_user/add_user/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/add_user/add_user/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/add_user/add_user/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_user/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/add_user/manage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/add_user/user/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/add_user/user/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/add_user/user/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/add_user/user/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add_user/user/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/add_user/user/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add_user/user/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/add_user/user/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/add_user/user/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/add_user/user/migrations/0001_initial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/add_user/user/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/add_user/user/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/add_user/user/templates/add_user.html" beforeDir="false" afterPath="$PROJECT_DIR$/add_user/user/templates/add_user.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/add_user/user/templates/delete_user.html" beforeDir="false" afterPath="$PROJECT_DIR$/add_user/user/templates/delete_user.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/add_user/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/add_user/user/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
