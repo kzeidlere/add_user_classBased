@@ -56,3 +56,5 @@ class UserDeleteView(DeleteView):
     model = User
     template_name = 'delete_user.html'
     success_url = '/'
+
+#comment
